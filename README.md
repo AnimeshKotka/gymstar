@@ -18,5 +18,5 @@ This project is a fully production level app.
 
 
 ## Demo of App
-![alt text](https://github.com/AnimeshKotka/gymstar/blob/master/demo/ezgif.com-video-to-gif.gif)
+![alt text](https://github.com/AnimeshKotka/gymstar/blob/master/demo/ezgif.com-optimize.gif)
 
