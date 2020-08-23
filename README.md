@@ -20,3 +20,6 @@ This project is a fully production level app.
 ## Demo of App
 ![alt text](https://github.com/AnimeshKotka/gymstar/blob/master/demo/ezgif.com-optimize.gif)
 
+### Download Link:
+[Download Here.](http://www.mediafire.com/file/j4g5219la2qsd78/app.apk/file)
+
