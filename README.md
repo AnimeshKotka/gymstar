@@ -1,16 +1,20 @@
 # gymstar
 
-A new Flutter project.
+An Exercise flutter app
 
-## Getting Started
+## No compromise for a healty life.
 
-This project is a starting point for a Flutter application.
+This project is a fully production level app. 
 
-A few resources to get you started if this is your first Flutter project:
+# **Features**
+- An AI program will choose users daily exercises.
+- User can selecte exercise based on his mood and can track of exercise based on defficulty level.
+- A timer will active for count down .
+- Daily tips will be given to users for help.
+- A suitable diet will be given to users.
+- User can get achivements based on thier performantions.
+- User attractive, so user can not find any laziness while using it.
+- Highly optimize and memory leak will not be an issue.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo of App
